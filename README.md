@@ -4,8 +4,8 @@ Author: Georgiy Antonovich Bondar
 Go to https://keshakot.github.io/CS455_M1.PR5/ to play the game :)
 
 # Behaviors
-Projectile Firer: Assets/Scripts/ProjectileFirer.cs
-Improved Projectile Firer: Assets/Scripts/ProjectileFirer_Improved.cs
+Projectile Firer: Assets/Scripts/ProjectileFirer.cs   
+Improved Projectile Firer: Assets/Scripts/ProjectileFirer_Improved.cs  
 
 # Changes
 1. Created an improved projectile firer which adjusts for misses and allows moving targets to be hit.  
